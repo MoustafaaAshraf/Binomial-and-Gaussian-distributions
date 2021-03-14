@@ -7,3 +7,6 @@ Package is used for modelling, calculating, plotting and calculating PDFs
 Binomialdistributions.py ---> Binomial Distribution class which inherits from General distribution
 Gaussiandistributions.py ---> Gaussian distribution class which inherits from General distribution
 Generaldistribution.py ---> A general Distribution class which specifies the mean and standard deviation of the distribution and the respective methods
+
+# Installation
+pip install Ga-Bi-Distributions==1.1
